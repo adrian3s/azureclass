@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alfabetajuega.com%2Fnoticia%2Fdragon-ball-z-kakarot-muestra-a-majin-vegeta-en-super-saiyan-2&psig=AOvVaw0EmSBSNVmO085Zlj4mpnuH&ust=1608070756332000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC4v8fAzu0CFQAAAAAdAAAAABAD" alt="Project logo"></a>
+ <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
+ <img width=200px height=200px src="/dragon-ball-majin-vegeta-780x405.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Vanilla JavaScript App Adrián Alpízar</h3>
