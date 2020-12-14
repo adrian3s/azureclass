@@ -1,7 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
- <img width=200px height=200px src="/dragon-ball-majin-vegeta-780x405.jpg" alt="Project logo"></a>
+ <br>
+ <img src="/dragon-ball-majin-vegeta-780x405.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Vanilla JavaScript App Adrián Alpízar</h3>
